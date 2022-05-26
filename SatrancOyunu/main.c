@@ -9,7 +9,6 @@
 #include <stdio.h>
 
 //Tas Puanlari ve takım puanları bütün fonksiyonlarda kullanılacağı için globalde tanımlandı.
-
 double p = 1;
 double a = 3;
 double f = 3;
